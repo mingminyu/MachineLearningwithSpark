@@ -1,0 +1,58 @@
+{
+  "paragraphs": [
+    {
+      "text": "%md\n\n# 第2章 设计机器学习系统\n\n## 2.1 MovieStream介绍\n\n## 2.2 机器学习系统商业用例\n\n### 2.2.1 个性化\n\n### 2.2.2 目标营销和客户细分\n\n### 2.2.3 预测建模与分析\n\n## 2.3 机器学习模型的种类\n\n## 2.4 数据驱动的机器学习系统的组成\n\n### 2.4.1 数据获取与存储\n\n### 2.4.2 数据清理与转换\n\n### 2.4.3 模型训练与测试回路\n\n### 2.4.4 模型部署与整合\n\n### 2.4.5 模型监控与反馈\n\n### 2.4.6 批处理或实时方案的选择\n\n## 2.5 机器学习系统架构\n\n## 2.6 小结",
+      "user": "admin",
+      "dateUpdated": "2021-11-01 12:29:06.024",
+      "progress": 0,
+      "config": {
+        "tableHide": false,
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "colWidth": 12.0,
+        "editorMode": "ace/mode/markdown",
+        "fontSize": 9.0,
+        "editorHide": true,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003e第2章 设计机器学习系统\u003c/h1\u003e\n\u003ch2\u003e2.1 MovieStream介绍\u003c/h2\u003e\n\u003ch2\u003e2.2 机器学习系统商业用例\u003c/h2\u003e\n\u003ch3\u003e2.2.1 个性化\u003c/h3\u003e\n\u003ch3\u003e2.2.2 目标营销和客户细分\u003c/h3\u003e\n\u003ch3\u003e2.2.3 预测建模与分析\u003c/h3\u003e\n\u003ch2\u003e2.3 机器学习模型的种类\u003c/h2\u003e\n\u003ch2\u003e2.4 数据驱动的机器学习系统的组成\u003c/h2\u003e\n\u003ch3\u003e2.4.1 数据获取与存储\u003c/h3\u003e\n\u003ch3\u003e2.4.2 数据清理与转换\u003c/h3\u003e\n\u003ch3\u003e2.4.3 模型训练与测试回路\u003c/h3\u003e\n\u003ch3\u003e2.4.4 模型部署与整合\u003c/h3\u003e\n\u003ch3\u003e2.4.5 模型监控与反馈\u003c/h3\u003e\n\u003ch3\u003e2.4.6 批处理或实时方案的选择\u003c/h3\u003e\n\u003ch2\u003e2.5 机器学习系统架构\u003c/h2\u003e\n\u003ch2\u003e2.6 小结\u003c/h2\u003e\n\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1635737591399_1881693937",
+      "id": "paragraph_1635737591399_1881693937",
+      "dateCreated": "2021-11-01 11:33:11.399",
+      "dateStarted": "2021-11-01 12:29:06.024",
+      "dateFinished": "2021-11-01 12:29:06.038",
+      "status": "FINISHED"
+    }
+  ],
+  "name": "ch02-design_ml_system",
+  "id": "2GMSBNCX2",
+  "defaultInterpreterGroup": "spark",
+  "version": "0.10.0",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {},
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
